@@ -175,4 +175,6 @@ https://www.roblox.com/games/12332171673/Housing-Village
 
 Twitterでも紹介しております
 
-https://twitter.com/keita0x12/status/1632696529399193600?ref_src=twsrc%5Etfw
+https://twitter.com/keita0x12/status/1632696529399193600
+
+https://twitter.com/keita0x12/status/1633071796995104770
