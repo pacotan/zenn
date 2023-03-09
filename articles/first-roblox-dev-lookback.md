@@ -3,7 +3,7 @@ title: "Robloxでゲーム開発してみて「Robloxすごいじゃん」って
 emoji: "😺"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Roblox]
-published: false
+published: true
 ---
 
 Robloxではじめてガチンコゲーム開発してみました。
@@ -173,3 +173,6 @@ Roblox Studio上で公開設定も完了するので、ブラウザ行ったり�
 
 https://www.roblox.com/games/12332171673/Housing-Village
 
+Twitterでも紹介しております
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/Roblox?src=hash&amp;ref_src=twsrc%5Etfw">#Roblox</a> で作成したゲーム「HousingVillage」紹介動画です<br>みんなでワイワイミニゲームしたりしながら、お金をかせいで、立派な家を建てていきますっ（紹介動画は一人プレイ😂）<br>スマホ・PCから、みんなで、気軽に遊べるのでお暇なときにあそんでみてくださいませ😄🏠<a href="https://t.co/HfryWEHAsS">https://t.co/HfryWEHAsS</a> <a href="https://t.co/HEtoXKkxqb">pic.twitter.com/HEtoXKkxqb</a></p>&mdash; たんじ@Robloxコンテスト作品作成中 (@keita0x12) <a href="https://twitter.com/keita0x12/status/1632696529399193600?ref_src=twsrc%5Etfw">March 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
