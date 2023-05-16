@@ -16,7 +16,7 @@ Roblox開発でのコーディング環境は通常はRoblox Studio上のScript�
 
 ## VSCodeでRoblox開発環境構築
 
-![vsc_dev](/images/roblox_vsc_dev/vsc_01.png)
+![vsc_dev](/images/roblox_vsc_dev/vsc_03.png)
 
 VSCode（外部エディタ）でRobloxのコーディングを行うには、
 
