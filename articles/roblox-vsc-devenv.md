@@ -76,7 +76,7 @@ https://devforum.roblox.com/t/roblox-lsp-full-intellisense-for-roblox-and-luau/7
 
 ### 実際のコーディング風景
 
-![roblox_studio](/images/roblox_vsc_dev/roblox_vsc_demo_02.gif)
+![roblox_vsc_demo](/images/roblox_vsc_dev/roblox_vsc_demo_02.gif)
 
 ということで上述のような環境構築したRobloxのスクリプト編集作業風景が↑のgifアニメ。
 
