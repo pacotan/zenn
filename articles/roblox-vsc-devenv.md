@@ -76,13 +76,13 @@ https://devforum.roblox.com/t/roblox-lsp-full-intellisense-for-roblox-and-luau/7
 
 ### 実際のコーディング風景
 
-![roblox_vsc_demo](/images/roblox_vsc_dev/roblox_vsc_demo_02.gif)
+![roblox_vsc_demo](/images/roblox_vsc_dev/roblox_vsc_demo_05.gif)
 
 ということで上述のような環境構築したRobloxのスクリプト編集作業風景が↑のgifアニメ。
 
-補完が効いたり候補が列挙されてたり、ドキュメントリンクが出ていたり、テキスト保存でStudioに同期したり、diff見たり、VSCodeのVim操作できたり・・・
+補完が効いたり候補が列挙されてたり、ドキュメントリンクが出ていたり、テキスト保存でStudioに同期したり、Vim操作できたり・・・
 
-十分快適そうなRobloxスクリプトコーディング環境になってるんじゃないかなと思います。
+十分そうなRobloxスクリプトコーディング環境になってるんじゃないかなと思います。
 
 ## RobloxをVSCode上で開発するメリット
 
@@ -171,5 +171,3 @@ RobloxのVSCodeの開発環境の話は（特に日本では）、全然挙が�
 この環境で快適に作れたので作りたいゲームにできました！ぜひとも遊んでみてください。
 
 https://www.roblox.com/games/12923314225/DOTABATA-Quiz-Island
-
-テスト・テスト
