@@ -3,7 +3,7 @@ title: "RobloxベイブレードXコンテストで行った挑戦と振り返�
 emoji: "🐈"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [Roblox]
-published: false
+published: true
 ---
 
 先日Roblox ベイブレードX クリエイターコンテストが開催され、結果タカラトミー賞受賞という結果をいただきました。
